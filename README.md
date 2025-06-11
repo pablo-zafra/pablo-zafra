@@ -25,6 +25,6 @@ I am a **Creative Developer & UX/UI Designer** driven by a passion for crafting 
 💬 Get in touch!
 
 
-📧 Email: [hola@pablozafra.es](mailto:hola@pablozafra.es)
-🌐 Web: [https://pablozafra.es/](https://pablozafra.es/)
+📧 Email: [hola@pablozafra.es](mailto:hola@pablozafra.es)<br>
+🌐 Web: [https://pablozafra.es/](https://pablozafra.es/)<br>
 🔗 LinkedIn: [https://www.linkedin.com/in/pablo-zafra/](https://www.linkedin.com/in/pablo-zafra/)
