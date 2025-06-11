@@ -1,6 +1,7 @@
-## Hi there 👋 I am, Pablo Zafra!
+### Hi there 👋 I am, Pablo Zafra!
 
-🚀 About Me
+## 🚀 About Me
+
 I am a **Creative Developer & UX/UI Designer** driven by a passion for crafting interactive and accessible solutions. I bring a meticulous approach to development, design, and animation, and I love to write clean and scalable lines of magic code.
 
 ---
